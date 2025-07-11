@@ -1,0 +1,48 @@
+{
+  "employees": [
+    {
+      "id": "95b4",
+      "name": "Dilasha Thapa",
+      "email": "thapadilasha2063@gmail.com",
+      "department": "sales",
+      "designation": "junior",
+      "userType": "manager",
+      "salary": "2000",
+      "password": "dilasha123",
+      "date": "2025-07-07"
+    },
+    {
+      "name": "Nisha Acharya",
+      "email": "acharyanisha2063@gmail.com",
+      "department": "engineering",
+      "designation": "midlevel",
+      "userType": "manager",
+      "salary": "2000",
+      "password": "nisha",
+      "date": "2025-07-11",
+      "id": "cdc3"
+    },
+    {
+      "name": "dilasha thapa",
+      "email": "thapadilasha2064@gmail.com",
+      "department": "sales",
+      "designation": "junior",
+      "userType": "employee",
+      "salary": "2000",
+      "password": "dilasha",
+      "date": "2025-07-10",
+      "id": "04e6"
+    },
+    {
+      "id": "fa82",
+      "name": "Binoj Acharya",
+      "email": "binojacharya@gmail.com",
+      "department": "sales",
+      "designation": "junior",
+      "userType": "manager",
+      "salary": "50000000",
+      "password": "binoj123",
+      "date": "2025-07-10"
+    }
+  ]
+}
