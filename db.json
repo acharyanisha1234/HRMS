@@ -43,6 +43,17 @@
       "salary": "50000000",
       "password": "binoj123",
       "date": "2025-07-10"
+    },
+    {
+      "id": "ed7b",
+      "name": "Prasanna Acharya",
+      "email": "prasannaacharya@gmail.com",
+      "department": "sales",
+      "designation": "junior",
+      "userType": "employee",
+      "salary": "60000",
+      "password": "prasanna",
+      "date": "2025-07-14"
     }
   ]
 }

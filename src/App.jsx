@@ -19,12 +19,19 @@ function App() {
      }
      >
     
-          <Route path="employee" element={<Employeeform />} />
+          <Route path="employee" element={
+            <ProtectedRoute allowedRoles={["hr","manager","admin"]}>
+               <Employeeform  />
+            </ProtectedRoute>
+         } 
+            />
+          
           <Route path="Dashboard" element={<Dashboardform />} />
         </Route>
+        
       </Routes>
     </>
-  )
-}
+ )
+ }
 
 export default App;
