@@ -5,12 +5,14 @@ import Home from "./pages/home.jsx";
 import Employeeform from "./pages/Employee.jsx";
 import Dashboardform from "./pages/Dashboard.jsx"
 import ProtectedRoute from "./components/home/Utils/protectedRoute.jsx";
+import Unauthorized from "./components/home/Utils/unauthorize.jsx";
 
 function App() {
   return (
     <>
       <Routes>
         <Route path="/" element={<Loginform />} />
+        <Route path="/unauthorized" element={<Unauthorized/>} />
         <Route path="home" 
         element={
         <ProtectedRoute>

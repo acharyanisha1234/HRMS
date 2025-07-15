@@ -54,6 +54,28 @@
       "salary": "60000",
       "password": "prasanna",
       "date": "2025-07-14"
+    },
+    {
+      "id": "557a",
+      "name": "dilasha",
+      "email": "dilasha@gmail.com",
+      "department": "engineering",
+      "designation": "intern",
+      "userType": "employee",
+      "salary": "10000",
+      "password": "dilasha",
+      "date": "2025-07-15"
+    },
+    {
+      "name": "nishu",
+      "email": "nishu@gmail.com",
+      "department": "sales",
+      "designation": "junior",
+      "userType": "employee",
+      "salary": "40000",
+      "password": "67890",
+      "date": "2025-07-15",
+      "id": "3d72"
     }
   ]
 }
